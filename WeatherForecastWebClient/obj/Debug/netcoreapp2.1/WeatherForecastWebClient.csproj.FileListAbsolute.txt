@@ -1,0 +1,22 @@
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace\WeatherForecastWebClient\WeatherForecastWebClient\bin\Debug\netcoreapp2.1\WeatherForecastWebClient.deps.json
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace\WeatherForecastWebClient\WeatherForecastWebClient\bin\Debug\netcoreapp2.1\WeatherForecastWebClient.runtimeconfig.json
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace\WeatherForecastWebClient\WeatherForecastWebClient\bin\Debug\netcoreapp2.1\WeatherForecastWebClient.runtimeconfig.dev.json
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace\WeatherForecastWebClient\WeatherForecastWebClient\bin\Debug\netcoreapp2.1\WeatherForecastWebClient.dll
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace\WeatherForecastWebClient\WeatherForecastWebClient\bin\Debug\netcoreapp2.1\WeatherForecastWebClient.pdb
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace\WeatherForecastWebClient\WeatherForecastWebClient\obj\Debug\netcoreapp2.1\WeatherForecastWebClient.csprojAssemblyReference.cache
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace\WeatherForecastWebClient\WeatherForecastWebClient\obj\Debug\netcoreapp2.1\WeatherForecastWebClient.csproj.CoreCompileInputs.cache
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace\WeatherForecastWebClient\WeatherForecastWebClient\obj\Debug\netcoreapp2.1\WeatherForecastWebClient.AssemblyInfoInputs.cache
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace\WeatherForecastWebClient\WeatherForecastWebClient\obj\Debug\netcoreapp2.1\WeatherForecastWebClient.AssemblyInfo.cs
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace\WeatherForecastWebClient\WeatherForecastWebClient\obj\Debug\netcoreapp2.1\WeatherForecastWebClient.dll
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace\WeatherForecastWebClient\WeatherForecastWebClient\obj\Debug\netcoreapp2.1\WeatherForecastWebClient.pdb
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace B\WeatherForecastWebClient\WeatherForecastWebClient\bin\Debug\netcoreapp2.1\WeatherForecastWebClient.deps.json
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace B\WeatherForecastWebClient\WeatherForecastWebClient\bin\Debug\netcoreapp2.1\WeatherForecastWebClient.runtimeconfig.json
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace B\WeatherForecastWebClient\WeatherForecastWebClient\bin\Debug\netcoreapp2.1\WeatherForecastWebClient.runtimeconfig.dev.json
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace B\WeatherForecastWebClient\WeatherForecastWebClient\bin\Debug\netcoreapp2.1\WeatherForecastWebClient.dll
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace B\WeatherForecastWebClient\WeatherForecastWebClient\bin\Debug\netcoreapp2.1\WeatherForecastWebClient.pdb
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace B\WeatherForecastWebClient\WeatherForecastWebClient\obj\Debug\netcoreapp2.1\WeatherForecastWebClient.csprojAssemblyReference.cache
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace B\WeatherForecastWebClient\WeatherForecastWebClient\obj\Debug\netcoreapp2.1\WeatherForecastWebClient.csproj.CoreCompileInputs.cache
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace B\WeatherForecastWebClient\WeatherForecastWebClient\obj\Debug\netcoreapp2.1\WeatherForecastWebClient.AssemblyInfoInputs.cache
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace B\WeatherForecastWebClient\WeatherForecastWebClient\obj\Debug\netcoreapp2.1\WeatherForecastWebClient.AssemblyInfo.cs
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace B\WeatherForecastWebClient\WeatherForecastWebClient\obj\Debug\netcoreapp2.1\WeatherForecastWebClient.dll
+J:\MCAST\IICT\Distributed Programming\VS 2019 Workspace B\WeatherForecastWebClient\WeatherForecastWebClient\obj\Debug\netcoreapp2.1\WeatherForecastWebClient.pdb
